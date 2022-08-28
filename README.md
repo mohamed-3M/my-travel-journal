@@ -1,4 +1,6 @@
 # MyTravel Journal
+React Project
+
 
 Quick start:
 
